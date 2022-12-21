@@ -109,8 +109,9 @@ Muchas gracias!
 
 pd: este documento puede consultarse on line en la siguiente dirección:
 
-		(https://github.com/Ankelo-nqn/la-gordineta/blob/main/tp1.md)
+		https://github.com/Ankelo-nqn/la-gordineta/blob/main/tp1.md
 
 y el código desarrollado aquí:
 		
-		(https://github.com/Ankelo-nqn/la-gordineta)
+		https://github.com/Ankelo-nqn/la-gordineta
+
